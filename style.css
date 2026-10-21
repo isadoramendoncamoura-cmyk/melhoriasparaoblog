@@ -15,6 +15,18 @@ main{
 }
 article{
     display: flex;
+
+    border: 1px solid #601616;
+
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
+
+    flex: 1 1 25%;
+
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
 img{
