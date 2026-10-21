@@ -21,6 +21,10 @@
     color: var(--cor-secundaria);
 }
 
+.tema-escuro p {
+    color: var(--cor-texto);
+}
+
 body{
     max-width: 100vw;
 }
