@@ -15,7 +15,10 @@
     --cor-texto: #fc0707;
     --cor-contraste: #8b0d0d;
     --cor-botao: #3d0808;
+}
 
+.tema-escuro a {
+    color: var(--cor-secundaria);
 }
 
 body{
